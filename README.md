@@ -1,3 +1,9 @@
+[![GitHub license](https://img.shields.io/github/license/MarinCervinschi/WebTechnologyQuiz)](LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/MarinCervinschi/WebTechnologyQuiz)]()
+[![GitHub forks](https://img.shields.io/github/forks/MarinCervinschi/WebTechnologyQuiz)]()
+[![GitHub issues](https://img.shields.io/github/issues/MarinCervinschi/WebTechnologyQuiz)]()
+[![GitHub visitors](https://visitor-badge.laobi.icu/badge?page_id=MarinCervinschi.WebTechnologyQuiz&)]()
+
 # Web Technologies Quiz App
 
 ## Get Started
